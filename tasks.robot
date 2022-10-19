@@ -11,6 +11,7 @@ Library             RPA.Tables
 Library             Collections
 Library             RPA.FileSystem
 Library             Py.py
+Library             RPA.Salesforce
 
 Task Setup          Open Application
 Task Teardown       Quit Application
